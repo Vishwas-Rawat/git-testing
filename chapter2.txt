@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is chapter 1 before modify.
+=======
+This is chapter 2 after modify.
+>>>>>>> alien-plot
